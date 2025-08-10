@@ -1,5 +1,3 @@
-# PulseCare-Puch-AI-Hackathon-Phase-1
-
 # PulseCare – AI-Powered Early Warning for Chronic Illnesses
 *A Puch AI Hackathon – Phase 1 Submission*  
 
